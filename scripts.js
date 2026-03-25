@@ -7,3 +7,7 @@ let result;
 result = numUm/numDois;
  
 alert("O resultado da divisão é " + result);
+
+result = numUm + numDois
+
+alert ("O resultado da Soma será " + result);
