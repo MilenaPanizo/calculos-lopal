@@ -5,6 +5,6 @@ let result
 numUm = Number(prompt("Digite o primeiro numero"));
 numDois = Number(prompt("Digite o segundo numero"));
 
-result = numUm/numDois
+result = numUm - numDois
 
-alert ("O resultado da divisão é " + result);
+alert ("O resultado da subtração é " + result);
